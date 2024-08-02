@@ -1,0 +1,105 @@
+h2{
+    margin-left: 114px;
+}
+table{
+    margin-left: 114px;
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    text-align: start;
+}
+.th1{
+    width: 201px;
+}
+.th2{
+    width: 593px;
+    
+}
+.th3{
+    width:  201px;
+}
+.th4{
+    width: 801px;
+    padding-left: 19px;
+}
+.form1{
+    width: 201px;
+    border-top: 110px; 
+    border-left: 114px;
+
+}
+.form2{
+    width: 590px;
+    border-top: 110px;
+    border-left: 334px;
+}
+
+.ss {
+ width: 95%;
+}
+
+.button1{
+    background-color: #FFD43A;
+    width: 115px;
+    height: 45px;
+    text-align: center;
+    border-radius: 10px;
+}
+form *{
+    height: 45px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    border: 1px solid #E0E0E0
+}
+/* -----------------TABLE2-------------------------------------------------------------- */
+
+.table2{
+    margin-left: 114px;
+    border-collapse: collapse;
+    border-color: #DADADA;
+    width: 85%;
+}
+.tr3{
+    height: 57px;
+}
+.th11{
+    width: 72px;
+    text-align: center;
+}
+.th22{
+    width: 344px;
+    text-align: start;
+}
+.th33{
+    width:  76px;
+    text-align: center;
+}
+.th44{
+    width: 90px;
+    text-align: center;
+}
+.th55{
+    width: 90px;
+    text-align: center;
+}
+.button2{
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+    text-align: center;
+    
+}
+.button3{
+    background-color: #FF0000;
+    width: 115px;
+    height: 36px;
+    text-align: center;
+    
+}
+.td{
+    text-align: center;
+}
+
+
+
